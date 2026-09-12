@@ -33,11 +33,9 @@ The power fed in either the E or H arm should divide itself equally in both the 
  4. Experimental setup for demonstrating the 3 dB power division in the collinear arms. 4.1 4.2 Now the power input be either E or H arms. Set the attenuator to get reference reading on SWR meter without the component under test. Note the attenuator setting (A1) dB 4.3 4.4 4.2 4.5 Connect the component under test(Magic tee) Reduce the attenuation to get the reference reading obtained in step Note down the attenuator setting (A2) dB The difference in the attenuator settings gives the ration of the power coupled to the collinear to that in the main arm, in dB. This value is around 3dB.
 
 ## Observation:
-Isolation measurement 
-<img width="1107" height="283" alt="image" src="https://github.com/user-attachments/assets/2f949089-fa17-48dd-8a74-65fee7fc15ee" />
 
-Measurement of power division 
-<img width="1067" height="190" alt="image" src="https://github.com/user-attachments/assets/128e5b8c-0a5c-4826-baa3-c1de7d339546" />
+<img width="1115" height="190" alt="image" src="https://github.com/user-attachments/assets/4d240509-4ca1-4306-9630-f386b45467b1" />
+
 
 
 ## Conclusions: 
